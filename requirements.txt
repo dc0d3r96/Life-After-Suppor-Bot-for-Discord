@@ -3,3 +3,4 @@ pinecone-client==2.2.2
 sentence-transformers
 huggingface-hub
 python-dotenv
+pinecone-client==3
