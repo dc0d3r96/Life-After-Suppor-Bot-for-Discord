@@ -1,5 +1,5 @@
 discord.py>=2.0.0
-pinecone-client>=3.0.0
+pinecone>=3.0.0
 sentence-transformers
 huggingface-hub
 python-dotenv
