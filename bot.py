@@ -3,7 +3,7 @@ import json
 from dotenv import load_dotenv
 import discord
 from discord.ext import commands
-from pinecone import Pinecone
+import Pinecone
 from sentence_transformers import SentenceTransformer
 from huggingface_hub.inference_api import InferenceApi
 
