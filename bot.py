@@ -25,7 +25,7 @@ with open("data/lifeafter_faq.json", encoding="utf-8") as f:
 
 # ────────────────────
 # 3) Pinecone ve embedder hazırlığı
-pc       = Pinecone(api_key=PINECONE_API_KEY, environment=PINECONE_ENV)
+pc       = pinecone.init(api_key=PINECONE_API_KEY, environment=PINECONE_ENV)
 index    = pc.Index(PINECONE_INDEX_NAME)
 embedder = SentenceTransformer(EMBEDDING_MODEL_NAME)
 hf_api   = InferenceApi(repo_id=HF_MODEL_NAME, token=HF_TOKEN)
