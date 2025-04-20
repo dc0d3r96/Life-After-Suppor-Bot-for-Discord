@@ -1,6 +1,5 @@
 discord.py>=2.0.0
---force-reinstall pinecone-client==2.2.2
-pinecone-client==3
+pinecone-client>=3.0.0
 sentence-transformers
 huggingface-hub
 python-dotenv
