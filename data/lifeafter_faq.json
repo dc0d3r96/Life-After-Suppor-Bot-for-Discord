@@ -1,0 +1,753 @@
+[
+  {
+    "id": "genel-bilgi-gelistirici",
+    "title": "LifeAfter Geliştiricisi Kimdir?",
+    "content": "LifeAfter, Çin merkezli oyun şirketi NetEase Games tarafından geliştirilmiş ve yayınlanmıştır. Şirket, mobil ve çevrim içi oyun sektöründe dünya çapında tanınan bir markadır."
+  },
+  {
+    "id": "genel-bilgi-platformlar",
+    "title": "LifeAfter Hangi Platformlarda Mevcuttur?",
+    "content": "LifeAfter, Android ve iOS mobil cihazlarda olduğu kadar Windows PC üzerinde de oynanabilir. Platformlar arası senkronizasyon desteği de sunmaktadır."
+  },
+  {
+    "id": "genel-bilgi-cikis-tarihleri",
+    "title": "LifeAfter Ne Zaman Çıktı?",
+    "content": "Oyun ilk olarak 17 Aralık 2018 tarihinde Çin'de yayımlandı. Küresel versiyonu ise 28 Şubat 2019 tarihinde dünya genelinde oyuncularla buluştu."
+  },
+  {
+    "id": "genel-bilgi-tur",
+    "title": "LifeAfter Hangi Türde Bir Oyundur?",
+    "content": "LifeAfter, açık dünya keşfi, zombi hayatta kalma mücadelesi ve MMO özellikleriyle öne çıkan bir oyundur. PvE ve PvP içerikleri barındırır."
+  },
+  {
+    "id": "genel-bilgi-oyun-temasi",
+    "title": "LifeAfter'ın Teması Nedir?",
+    "content": "Oyunda kıyamet sonrası bir dünyada, enfekte yaratıklara karşı hayatta kalma mücadelesi verilir. Aynı zamanda kaynak yönetimi, üs inşası ve topluluk iş birliği gibi ögeler de önemlidir."
+  },
+  {
+    "id": "genel-bilgi-oynanis",
+    "title": "LifeAfter'da Oynanış Nasıl?",
+    "content": "Oynanış hem bireysel hem de grup halinde ilerlemeyi destekler. Oyuncular kaynak toplar, görevler yapar, kendi üslerini geliştirir ve diğer oyuncularla savaşabilir."
+  },
+  {
+    "id": "genel-bilgi-survivor-odakli",
+    "title": "LifeAfter Neden Hayatta Kalma Odaklı Bir Oyundur?",
+    "content": "Oyunda yiyecek, barınak, ekipman gibi temel ihtiyaçların karşılanması zorunludur. Enfeksiyon riski, hava koşulları ve düşman saldırıları hayatta kalma zorluklarını artırır."
+  },
+  {
+    "id": "genel-bilgi-topluluk-rolu",
+    "title": "Topluluklar LifeAfter'da Ne İşe Yarar?",
+    "content": "Oyuncular kamp kurarak bir topluluğa katılabilir. Kamplar, ticaret, savunma ve ortak görevlerde oyuncular arasında iş birliği sağlar."
+  },
+  {
+    "id": "karakter-insan-avantajlari",
+    "title": "İnsan Sınıfının Avantajları",
+    "content": "İnsan sınıfı, yüksek ateş hızı ve düşük yeniden doldurma süresi ile özellikle menzilli silahlarda etkilidir. Bu sınıf, geniş bir ekipman yelpazesine uyum sağlayarak esnek bir oyun deneyimi sunar."
+  },
+  {
+    "id": "karakter-insan-uygunluk",
+    "title": "İnsan Sınıfı Kimler İçin Uygundur?",
+    "content": "Yeni başlayanlar ve dengeli bir oyun tarzı isteyen oyuncular için insan sınıfı idealdir. Geniş silah ve zırh çeşitliliği sayesinde pek çok farklı görevde başarıyla kullanılabilir."
+  },
+  {
+    "id": "karakter-revenant-avantajlari",
+    "title": "Revenant Sınıfının Avantajları",
+    "content": "Revenant sınıfı, sporlar aracılığıyla kendini iyileştirme kabiliyeti sayesinde uzun süre savaşta kalabilir. Ayrıca, geniş çanta kapasitesi sayesinde daha fazla eşya taşıyabilir."
+  },
+  {
+    "id": "karakter-revenant-hasar-gucu",
+    "title": "Revenant Sınıfı ve Hasar Potansiyeli",
+    "content": "Revenant’lar, yakın ve orta menzilde yüksek hasar çıkışı sağlar. Enfekte güçlerini kullanarak düşmanlara ekstra etkiler uygulayabilirler."
+  },
+  {
+    "id": "karakter-sinif-karsilastirma",
+    "title": "İnsan ve Revenant Sınıflarının Karşılaştırılması",
+    "content": "İnsan sınıfı daha çok denge ve uyumluluğa odaklanırken, Revenant sınıfı agresif ve hayatta kalma odaklıdır. Hangisinin seçileceği oyuncunun oyun tarzına bağlıdır."
+  },
+  {
+    "id": "karakter-gelistirme-sistemleri",
+    "title": "Sınıfların Geliştirme Mekanizmaları",
+    "content": "Her iki sınıf da genetik modifikasyonlar, yetenek ağaçları ve ekipman yükseltmeleriyle geliştirilebilir. Sınıf tercihi, bu yükseltmelerin yönünü belirler."
+  },
+  {
+    "id": "meslek-combat-temel",
+    "title": "Combat Mesleği Nedir?",
+    "content": "Combat mesleği, savaş becerilerine odaklı bir rol olup PvE ve PvP mücadelelerinde üstün performans sağlar. Bu meslek, silah kullanımı, kritik vuruş oranı ve savunma bonusları sunar."
+  },
+  {
+    "id": "meslek-combat-avantaj",
+    "title": "Combat Mesleğinin Avantajları",
+    "content": "Yüksek ateş gücü, daha etkili silah kullanımı ve özel savaş yetenekleri Combat mesleğini ön plana çıkarır. Takım görevlerinde ön cephe rolünü üstlenmek için idealdir."
+  },
+  {
+    "id": "meslek-gatherer-nedir",
+    "title": "Gatherer Mesleği Nedir?",
+    "content": "Gatherer mesleği, doğal kaynakların toplanmasında uzmanlaşmıştır. Oyuncular bu meslekle daha hızlı odun, taş, bitki ve cevher gibi malzemeler toplayabilirler."
+  },
+  {
+    "id": "meslek-gatherer-taktik",
+    "title": "Gatherer Mesleği ile Verimli Kaynak Toplama",
+    "content": "Gatherer mesleği, harita üzerindeki kaynak noktalarını daha kolay tespit etme ve toplama süresini azaltma gibi avantajlar sağlar. Üretim odaklı oyuncular için idealdir."
+  },
+  {
+    "id": "meslek-crafter-nedir",
+    "title": "Crafter Mesleği Nedir?",
+    "content": "Crafter mesleği, silah, zırh ve çeşitli ekipmanları üretme yeteneğine sahiptir. Bu mesleği seçen oyuncular, pazarda eşyalarını satarak ekonomik gelir elde edebilir."
+  },
+  {
+    "id": "meslek-crafter-gelistirme",
+    "title": "Crafter Mesleğinde Uzmanlaşma",
+    "content": "Crafter’lar üretim formüllerini geliştirebilir, daha az malzeme ile yüksek kaliteli ürünler üretebilir. Özellikle üst seviye ekipman üretiminde kilit rol oynarlar."
+  },
+  {
+    "id": "us-insasi-nedir",
+    "title": "Üs İnşası Nedir?",
+    "content": "LifeAfter'da oyuncular, malikâne (manor) sistemi ile kendi üslerini kurabilir. Üs, oyuncunun barınma, üretim, depolama ve savunma alanlarını kapsar."
+  },
+  {
+    "id": "us-seviye-atlatma",
+    "title": "Malikâne Nasıl Geliştirilir?",
+    "content": "Malikâne seviyesi, kaynak toplayarak, görevleri tamamlayarak ve bina inşa ederek artırılır. Her seviye ile yeni yapı türleri ve yükseltmeler açılır."
+  },
+  {
+    "id": "atolyeler-ve-uretkenlik",
+    "title": "Atölyeler ve Üretim Verimliliği",
+    "content": "Atölyeler, silah ve zırh üretiminin yanı sıra yemek ve özel ekipman üretimi için de gereklidir. Yükseltilmiş atölyeler daha hızlı ve kaliteli üretim sağlar."
+  },
+  {
+    "id": "savunma-sistemleri",
+    "title": "Savunma Sistemleri Nasıl Kurulur?",
+    "content": "Üslerinizi NPC saldırılarına veya PvP baskınlarına karşı korumak için tuzaklar, elektrikli çitler ve otomatik kuleler inşa edebilirsiniz."
+  },
+  {
+    "id": "depolar-ve-stoklama",
+    "title": "Depolama Yapıları Ne İşe Yarar?",
+    "content": "Depolar, oyuncuların topladığı kaynakları saklaması için kullanılır. Depo kapasitesi yükseltilerek daha fazla eşya saklanabilir."
+  },
+  {
+    "id": "us-planlama-stratejisi",
+    "title": "Üs Planlamasında Stratejik Noktalar",
+    "content": "Üs inşa ederken savunma hatlarını dışa, üretim alanlarını merkeze yerleştirmek avantaj sağlar. Giriş çıkışlar ve kaçış yolları önemlidir."
+  },
+  {
+    "id": "gorevler-gunluk-nedir",
+    "title": "Günlük Görevler Nedir?",
+    "content": "Günlük görevler, oyunculara her gün belirli hedefler sunarak kaynak ve deneyim kazandırır. Genellikle kaynak toplama, düşman temizleme ve yardım etme gibi görevleri içerir."
+  },
+  {
+    "id": "gorevler-puan-ve-odul",
+    "title": "Görevlerden Nasıl Ödül Kazanılır?",
+    "content": "Görevler tamamlandığında oyunculara altın külçesi, yetenek puanı, üretim malzemesi veya nadir ekipman gibi çeşitli ödüller verilir. Bazı görevler kamp bağışına da katkı sağlar."
+  },
+  {
+    "id": "haftalik-etkinlikler",
+    "title": "Haftalık Etkinlikler Nasıl İşler?",
+    "content": "LifeAfter’da haftalık döngü ile etkinlikler sunulur. Bunlar arasında Bounty görevleri, Infection Clean-up, Stronghold Rush ve Team Rescue gibi görevler yer alır."
+  },
+  {
+    "id": "pvp-turnuvalari",
+    "title": "PvP Turnuvaları Nedir?",
+    "content": "PvP turnuvaları, oyuncuların birbirleriyle takım halinde veya bireysel olarak savaştığı özel etkinliklerdir. Başarılı olanlar ödüller ve sıralama puanları kazanır."
+  },
+  {
+    "id": "coop-gorevler",
+    "title": "İşbirliği Görevleri Nedir?",
+    "content": "Co-op görevleri, birden fazla oyuncunun birlikte tamamlaması gereken görevlerdir. Genellikle boss savaşları, kurtarma görevleri ve bölge temizliği içerir."
+  },
+  {
+    "id": "ozel-zamanli-etkinlikler",
+    "title": "Zaman Sınırlı Etkinlikler Nedir?",
+    "content": "Belirli tatil dönemlerinde veya güncellemelerle gelen özel etkinlikler, temaya özel görevler ve benzersiz ödüller sunar. Katılım süresi sınırlıdır."
+  },
+  {
+    "id": "ekipman-silah-turleri",
+    "title": "Silah Türleri Nelerdir?",
+    "content": "LifeAfter’da tüfekler, tabancalar, yakın dövüş silahları ve patlayıcılar dahil olmak üzere birçok silah türü bulunur. Her silah, görev türüne göre avantaj sağlar."
+  },
+  {
+    "id": "ekipman-zirh-katmanlari",
+    "title": "Zırh Türleri ve Katmanlar",
+    "content": "Oyunda hafif, orta ve ağır zırh türleri bulunur. Hafif zırh hareket kabiliyeti sağlar, ağır zırh ise yüksek savunma sunar. Duruma göre seçim yapılmalıdır."
+  },
+  {
+    "id": "uretim-formula-lab",
+    "title": "Formula Lab ile Üretim Nasıl Yapılır?",
+    "content": "Formula Lab, silah ve zırh üretimi için kullanılan sistemdir. Üretim için formül parçası, blueprint ve özel bileşenler gerekir. Seviye arttıkça yeni tarifler açılır."
+  },
+  {
+    "id": "uretim-ustalik-sistemi",
+    "title": "Üretim Ustalığı Sistemi",
+    "content": "Oyuncular, üretim yaparak ustalık seviyelerini artırabilir. Ustalık seviyesi yükseldikçe daha kaliteli ekipman üretme ve daha az malzeme kullanma şansı artar."
+  },
+  {
+    "id": "ekipman-gelistirme",
+    "title": "Ekipmanlar Nasıl Geliştirilir?",
+    "content": "Ekipmanlar modifikasyon, yükseltme veya yeniden üretim yoluyla geliştirilebilir. Silahlara nişangah, namlu; zırhlara ise direnç modları eklenebilir."
+  },
+  {
+    "id": "ekipman-nadirlik-seviyesi",
+    "title": "Ekipman Nadirlik Seviyesi Nedir?",
+    "content": "Ekipmanlar gri (normal)den altın (efsanevi)'ye kadar çeşitli nadirlik seviyelerine sahiptir. Daha nadir ekipmanlar daha fazla bonus ve özellik barındırır."
+  },
+  {
+    "id": "evcil-kopekler-ne-ise-yarar",
+    "title": "Köpekler Ne İşe Yarar?",
+    "content": "Köpekler, oyunculara avlanma, keşif ve PvE görevlerinde yardımcı olur. Enfekte düşmanlara karşı uyarı verir ve bazı türleri düşmanları etkisiz hale getirebilir."
+  },
+  {
+    "id": "kopek-turleri-ve-yetenekler",
+    "title": "Köpek Türleri ve Yetenekleri",
+    "content": "LifeAfter’da Shepherd, Doberman, Labrador gibi çeşitli köpek türleri bulunur. Her birinin saldırı, savunma ya da keşif alanında benzersiz yetenekleri vardır."
+  },
+  {
+    "id": "drone-sistem-temel",
+    "title": "Drone Sistemi Nedir?",
+    "content": "Drone'lar savaş, keşif ve destek amaçlı kullanılan yardımcı araçlardır. Uzaktan saldırı yapabilir, düşmanları işaretleyebilir ya da takım arkadaşlarını iyileştirebilir."
+  },
+  {
+    "id": "drone-turleri-ve-moduller",
+    "title": "Drone Türleri ve Modülleri",
+    "content": "Saldırı, savunma ve tıbbi amaçlarla kullanılan üç temel drone türü vardır. Her biri modüllerle özelleştirilebilir; örneğin roket, şok darbesi, onarım birimi gibi."
+  },
+  {
+    "id": "yardimci-gelistirme",
+    "title": "Yardımcılar Nasıl Geliştirilir?",
+    "content": "Köpekler ve drone’lar seviye atladıkça yeni yetenekler kazanır. Eğitim, modül takviyesi ve özel görevlerle performansları artırılabilir."
+  },
+  {
+    "id": "yardimci-stratejileri",
+    "title": "Görevlere Göre Yardımcı Seçimi",
+    "content": "PvP için saldırı odaklı drone, kaynak görevleri için savunma tipi köpek tercih edilmelidir. Görev türüne göre yardımcı seçimi başarı oranını artırır."
+  },
+  {
+    "id": "ticaret-pazar-nedir",
+    "title": "Pazar Sistemi Nedir?",
+    "content": "LifeAfter’da oyuncular, pazarda topladıkları veya ürettikleri eşyaları satarak gelir elde edebilirler. Bu sistem oyuncular arası ekonomi yaratır."
+  },
+  {
+    "id": "pazar-satinalma-stratejileri",
+    "title": "Pazarda Satın Alma Stratejileri",
+    "content": "Oyuncular, pazar analizini iyi yaparak düşük fiyattan kaynak ve ekipman alabilir, stoklayabilir veya ihtiyaçlarını uygun fiyatla karşılayabilirler."
+  },
+  {
+    "id": "altin-kulce-kazanma",
+    "title": "Altın Külçesi Nasıl Kazanılır?",
+    "content": "Altın külçeleri görev tamamlama, PvP başarıları, etkinlik ödülleri ve pazarda satış yaparak elde edilir. Oyun içi en değerli para birimidir."
+  },
+  {
+    "id": "formul-parcasi-nedir",
+    "title": "Formül Parçası Nedir ve Nerede Kullanılır?",
+    "content": "Formül parçaları, yeni silah ve zırh üretiminde kullanılan nadir kaynaklardır. Formula Lab'da tarif açmak veya ekipman üretmek için gereklidir."
+  },
+  {
+    "id": "ekonomi-planlama",
+    "title": "Ekonomik Planlama Neden Önemlidir?",
+    "content": "Kaynak yönetimi, üretim zamanı ve ticaret fırsatlarının takibi oyuncunun gelişiminde belirleyici olur. Bilinçli ticaret daha hızlı seviye atlatır."
+  },
+  {
+    "id": "kamp-ticareti",
+    "title": "Kamplarda Ticaretin Rolü",
+    "content": "Oyuncular, aynı kampta yer alan diğer kişilerle kaynak alışverişi yapabilir. Kamp marketleri oyuncular arası yardımlaşmayı artırır."
+  },
+  {
+    "id": "bolge-fall-forest",
+    "title": "Fall Forest Bölgesi",
+    "content": "Fall Forest, yeni başlayan oyuncular için ideal bir keşif ve kaynak toplama alanıdır. Düşük tehlike seviyesine sahip olması, temel malzemeler için elverişlidir."
+  },
+  {
+    "id": "bolge-miska-university",
+    "title": "Miska University Görevleri",
+    "content": "Miska University, yüksek zorluk derecesine sahip bir bölgedir. Takım koordinasyonu gerektirir ve boss savaşları içeren özel ödüllü görevler sunar."
+  },
+  {
+    "id": "bolge-levin-city",
+    "title": "Levin City Özellikleri",
+    "content": "Levin City, gelişmiş kaynaklar, zorlu düşmanlar ve çeşitli PvE görevleri ile öne çıkan kentsel bir bölgedir. Keşif görevleri için uygundur."
+  },
+  {
+    "id": "bolge-tehlike-seviyeleri",
+    "title": "Bölgelere Göre Tehlike Seviyeleri",
+    "content": "Her bölgenin zorluk derecesi farklıdır. Düşük seviye oyuncular için Fall Forest, ileri seviye içerikler için Levin City veya Snow Highlands uygundur."
+  },
+  {
+    "id": "bolge-kaynak-haritasi",
+    "title": "Bölgesel Kaynak Haritası Kullanımı",
+    "content": "Oyuncular, kaynakların yoğunlaştığı bölgeleri öğrenmek için kaynak haritalarını kullanabilir. Madenler, bitkiler ve ağaçlar belli bölgelerde daha yoğundur."
+  },
+  {
+    "id": "bolge-kesif-ipuclari",
+    "title": "Keşif Yaparken Dikkat Edilmesi Gerekenler",
+    "content": "Keşif sırasında hava durumuna dikkat etmek, gece yolculuklarında aydınlatma taşımak ve düşman yoğunluğu olan alanlardan kaçınmak önemlidir."
+  },
+  {
+    "id": "hayatta-kalma-saglik-yonetimi",
+    "title": "Sağlık Yönetimi Nasıl Yapılır?",
+    "content": "Yemek tüketmek, ilaç kullanmak ve dinlenme alanlarında vakit geçirmek sağlık durumunuzu iyileştirir. HP düşmeden müdahale etmek hayatta kalmak için kritiktir."
+  },
+  {
+    "id": "hayatta-kalma-hava-durumu",
+    "title": "Hava Durumuna Karşı Önlem",
+    "content": "Soğuk, yağmur ve sis gibi hava koşulları karakterin sağlığını etkiler. Yağmurluk, kamp ateşi ve kapalı alanlar bu riskleri azaltır."
+  },
+  {
+    "id": "hayatta-kalma-ekipman-bakimi",
+    "title": "Ekipman Dayanıklılığı Neden Önemlidir?",
+    "content": "Ekipmanlar aşındıkça performansı düşer. Görevlere gitmeden önce silah ve zırhlarınızı tamir ettirmeniz hayati önem taşır."
+  },
+  {
+    "id": "hayatta-kalma-barinma",
+    "title": "Barınak Kullanımının Önemi",
+    "content": "Barınaklar, oyuncuların gece ve kötü hava koşullarında korunmasını sağlar. Ayrıca, enerji yenilenmesi ve güvenli envanter yönetimi sunar."
+  },
+  {
+    "id": "hayatta-kalma-enfeksiyon",
+    "title": "Enfeksiyon Riskine Karşı Ne Yapılmalı?",
+    "content": "Enfekte bölgelerde bulunmak, açık yaralar veya düşük dayanıklılık enfeksiyon riskini artırır. Antiseptik, maske ve medkit taşımak önerilir."
+  },
+  {
+    "id": "hayatta-kalma-tek-basina-vs-takim",
+    "title": "Tek Başına mı Takım Halinde mi?",
+    "content": "Zor görevlerde takım oyunu daha güvenlidir. Ancak, kaynak toplama gibi işlerde tek başına hareket etmek daha hızlı olabilir. Stratejiye göre hareket edin."
+  },
+  {
+    "id": "modifikasyon-silah-turleri",
+    "title": "Silah Modifikasyon Türleri",
+    "content": "Silah modifikasyonları; hasar artırıcı, menzil geliştirici ve isabet oranı yükseltici olarak ayrılır. Her görev türü için farklı kombinasyonlar önerilir."
+  },
+  {
+    "id": "modifikasyon-zirh-sistemleri",
+    "title": "Zırh Modifikasyon Sistemleri",
+    "content": "Zırhlar, fiziksel direnç, enfeksiyon koruması veya özel hasar azaltıcı modlarla geliştirilebilir. Özellikle PvP için özel zırh modları önerilir."
+  },
+  {
+    "id": "molekul-yukseltme-sistemi",
+    "title": "Molekül Sistemi ile Geliştirme",
+    "content": "Molekül yükseltme sistemi, silah ve zırhlara ek özellik kazandırmak için kullanılır. Her molekül farklı bir pasif güç sunar ve modüllerle tetiklenir."
+  },
+  {
+    "id": "genetik-evrim-agaci",
+    "title": "Genetik Evrim Ağacı",
+    "content": "Gen ağacı, oyuncuların pasif bonuslar kazanmasını sağlar. DNA parçaları ile aktif edilen bu ağacın her dalı farklı bir yetenek grubu sunar."
+  },
+  {
+    "id": "mutasyon-cekirdekleri",
+    "title": "Mutasyon Çekirdekleri Ne İşe Yarar?",
+    "content": "Mutasyon çekirdekleri, Death High gibi yüksek zorluktaki modlarda özel avantajlar sağlar. Her çekirdek belli bir kat yapısına karşı etkilidir."
+  },
+  {
+    "id": "death-high-kat-sistemi",
+    "title": "Death High Kat Sistemi",
+    "content": "Death High, oyuncuların artan zorluklarla karşılaştığı katlı bir kule modudur. Her katta farklı düşman türleri ve görev şartları bulunur."
+  },
+  {
+    "id": "death-high-en-iyi-cekirdekler",
+    "title": "Death High için En İyi Çekirdekler",
+    "content": "Anti-Mutation, Critical Boost ve Explosive Recoil çekirdekleri, üst katlarda yaygın olarak kullanılır. Doğru çekirdek seçimi başarının anahtarıdır."
+  },
+  {
+    "id": "kamp-sistemi-rol",
+    "title": "Kamp Sistemi ve Oyuncu Rolleri",
+    "content": "Kamp içindeki oyuncular; başkan, yardımcısı, araştırmacı gibi rollere ayrılır. Her rol kamp gelişimine farklı katkı sağlar."
+  },
+  {
+    "id": "kamp-gorevleri-ve-bagis",
+    "title": "Kamp Görevleri ve Bağış Sistemi",
+    "content": "Kamp üyeleri günlük görevleri tamamlayarak gelişim puanı ve kaynak bağışında bulunabilir. Aktif kamp üyeleri daha fazla özel etkinliğe katılır."
+  },
+  {
+    "id": "pvp-stratejileri",
+    "title": "PvP'de Başarılı Olmanın Yolları",
+    "content": "Kritik oranı yüksek silahlar, hafif zırh ve hızlı geçiş modları PvP'de öne çıkar. Ani saldırılar ve saklanma taktikleri etkilidir."
+  },
+  {
+    "id": "pve-stratejileri",
+    "title": "PvE Görevlerinde Nelere Dikkat Edilmeli?",
+    "content": "Boss'ların zayıf noktalarını hedeflemek, ekipman dayanıklılığını yüksek tutmak ve drone desteğini aktif kullanmak başarıyı artırır."
+  },
+  {
+    "id": "baslangic-hatalari",
+    "title": "Yeni Başlayanların Sık Yaptığı Hatalar",
+    "content": "İlk seviyelerde aşırı kaynak harcamak, rastgele modifikasyon yapmak ve kamp sistemini göz ardı etmek oyuncunun ilerleyişini yavaşlatabilir."
+  },
+  {
+    "id": "prof-ipuclari",
+    "title": "Profesyonel Oyunculardan İpuçları",
+    "content": "Üretim sırasında özel başarıyı yakalamak için ustalık seviyesini artırın, görev rotalarınızı planlayın ve her zaman yedek silah taşıyın."
+  },
+  {
+    "id": "Hello",
+    "title": "Merhaba Nasilsin",
+    "content": "İyim ama sana ne nasıl olduğum"
+  },
+  {
+    "id": "Yapimci",
+    "title": "Seni Kim Yarattı?",
+    "content": "Ben, Decoder tarafından geliştirilmiş Life After oyunu için oyunculara etkin ve hızlı destek sağlamak amacıyla tasarlanmış bir yapay zeka modeliyim. Oyuncuların karşılaştıkları sorunları çözmek, oyun hakkında bilgi sağlamak ve kullanıcı deneyimini iyileştirmek için gelişmiş AI teknolojileriyle donatıldım. Oyun içi soruya yanıt verirken, çözüm odaklı ve kullanıcının ihtiyaçlarına en uygun cevapları sunarak destek veriyorum."
+  },
+  {
+    "id": "formul-plus-nedir",
+    "title": "Formül+ Sistemi Nedir?",
+    "content": "Formül+ sistemi, oyuncuların ekipmanlarını geliştirmesini sağlayan bir yükseltme mekanizmasıdır. PvE ve PvP senaryolarına özel formül varyasyonları ile silah ve zırhların gücü optimize edilebilir."
+  },
+  {
+    "id": "formul-gelistirme-adimlari",
+    "title": "Formül Geliştirme Adımları",
+    "content": "Oyuncular, formula shards, upgrade cores ve nanoplastics kullanarak mevcut formüllerini geliştirebilir. Geliştirme ilerledikçe yeni bonuslar açılır."
+  },
+  {
+    "id": "silah-modlari-turleri",
+    "title": "Silah Mod Türleri",
+    "content": "Silah modları; isabet oranı, patlama etkisi, mermi kapasitesi, menzil ve hasar gibi alanlarda özelleştirme imkanı sunar. Modlar görev tarzına göre seçilmelidir."
+  },
+  {
+    "id": "genetik-agac-nasil-calisir",
+    "title": "Genetik Evrim Ağacı Nasıl Çalışır?",
+    "content": "Genetik ağacınız, DNA parçalarıyla etkinleştirilen pasif yetenekler içerir. Bu yetenekler karakterin sağlık, hız ve dayanıklılık gibi alanlarını geliştirir."
+  },
+  {
+    "id": "mutasyon-cekirdegi-kullanim",
+    "title": "Mutasyon Çekirdeği Nasıl Kullanılır?",
+    "content": "Mutasyon çekirdekleri, Death High ve benzeri görevlerde oyuncuya özel avantajlar sunar. Etkinleştirildiklerinde belirli süre boyunca karakter gücünü artırırlar."
+  },
+  {
+    "id": "death-high-sistem-tanimi",
+    "title": "Death High Nedir?",
+    "content": "Death High, artan zorluk seviyesine sahip katlı bir görev modudur. Her katta farklı düşman türleri ve zorluklar bulunur. Ödüller, kat sayısına göre artar."
+  },
+  {
+    "id": "death-high-taktik",
+    "title": "Death High İçin Taktiksel Öneriler",
+    "content": "Her 5 katta bir boss seviyesi artar. Patlayıcı etkili silahlar, AoE hasar yetenekleri ve anti-mutasyon çekirdekleri tercih edilmelidir. Yardımcı dronlar kullanmak hayati önem taşır."
+  },
+  {
+    "id": "kamp-yapisi-roller",
+    "title": "Kamp Yapısı ve Roller",
+    "content": "Kamplar, başkan, araştırmacı, savunmacı gibi rollere ayrılmış oyuncularla yönetilir. Her rolün kamp geliştirme ve savunmasında özel sorumlulukları vardır."
+  },
+  {
+    "id": "kamp-market-sistemi",
+    "title": "Kamp Market ve Ticaret Sistemi",
+    "content": "Kamp içerisindeki marketler, kamp üyelerinin kendi aralarında ticaret yapmasına imkan tanır. Görevlerle toplanan kaynaklar burada satılabilir veya takas edilebilir."
+  },
+  {
+    "id": "pvp-icin-silah-secimi",
+    "title": "PvP İçin En İyi Silah Seçimi",
+    "content": "PvP modlarında düşük tepme, yüksek kritik oranı ve hızlı şarjör değişimi sağlayan silahlar tercih edilmelidir. Uzi, Type95 ve Shotgun'lar sıkça kullanılır."
+  },
+  {
+    "id": "pve-boss-stratejileri",
+    "title": "PvE Boss Görevleri İçin Stratejiler",
+    "content": "Boss savaşlarında ekibin rolleri iyi dağıtılmalı, destek drone'ları aktif olmalı ve hasar bölgesi dışına çıkmak için hızlı hareket kabiliyeti sağlanmalıdır."
+  },
+  {
+    "id": "yeni-baslayan-hatalari",
+    "title": "Yeni Başlayanların Yaptığı Yaygın Hatalar",
+    "content": "İlk günlerde rastgele kaynak harcamak, kamp görevlerini atlamak ve silahları tamir etmeden savaşa girmek en sık yapılan hatalardandır."
+  },
+  {
+    "id": "ileri-seviye-oyuncu-ipuclari",
+    "title": "İleri Seviye Oyuncular İçin İpuçları",
+    "content": "Ekipmanlarınıza molekül modları ekleyin, PvE-PvP modlarına özel ayrı silah setleri oluşturun ve çekirdek kullanımını göreve göre ayarlayın."
+  },
+  {
+    "id": "boss-taktikleri-genel",
+    "title": "Boss Savaşlarında Genel Taktikler",
+    "content": "Boss savaşlarında hareketli kalmak, AoE saldırılardan kaçınmak ve yüksek menzilli silahlar kullanmak önemlidir. Takım halinde hedef paylaşımı yapılmalıdır."
+  },
+  {
+    "id": "boss-zayif-noktalar",
+    "title": "Bossların Zayıf Noktaları",
+    "content": "Bazı bosslar kafadan, bazıları arkadan hasara açıktır. Düşman analiz ekranı ile hangi bölgelere hedeflenmesi gerektiği görülebilir."
+  },
+  {
+    "id": "molekul-seviyeleri",
+    "title": "Molekül Seviyeleri ve Güç Artışı",
+    "content": "Molekül sistemi ile ekipmanlara ek pasif güçler kazandırılır. Seviye atladıkça efekt süresi ve gücü artar."
+  },
+  {
+    "id": "modifikasyon-pvp-kombinleri",
+    "title": "PvP için En İyi Modifikasyon Kombinasyonları",
+    "content": "Stability + Damage + Fire Effects kombinasyonu PvP'de en çok tercih edilen mod düzenidir. Kritik vuruş oranı da desteklenmelidir."
+  },
+  {
+    "id": "us-savunma-stratejisi",
+    "title": "Üs Savunma Stratejileri",
+    "content": "Üs savunmasında otomatik kule, duvarlar, mayınlar ve çitler en etkili savunma hattını oluşturur. Tuzakların içe değil dışa bakan şekilde kurulması önerilir."
+  },
+  {
+    "id": "offline-baskin-korunma",
+    "title": "Offline Baskınlardan Korunma Yöntemleri",
+    "content": "Oyunda çevrimdışı olduğunuzda savunma sistemleriniz otomatik devreye girer. Güvenlik puanı ve giriş kapısı düzeni saldırılara karşı direnç sağlar."
+  },
+  {
+    "id": "kaynak-haritasi",
+    "title": "Kaynak Haritası ve En Verimli Noktalar",
+    "content": "Taş, ağaç ve cevher gibi kaynaklar harita üzerinde belirli bölgelerde yoğunlaşır. Bu alanları öğrenmek Gathering verimini artırır."
+  },
+  {
+    "id": "gatherer-meslek-sinerjisi",
+    "title": "Gatherer Mesleği ile En İyi Verim",
+    "content": "Gatherer mesleği; özel kazma ve balta modifikasyonları ile toplama hızını artırır. Ayrıca daha fazla loot düşürme şansı sunar."
+  },
+  {
+    "id": "seviye-atlama-ipuclari",
+    "title": "Hızlı Seviye Atlama Tüyoları",
+    "content": "Günlük görevleri ve kamp aktivitelerini aksatmadan yapmak EXP kazanımını maksimize eder. Bounty görevleri XP için idealdir."
+  },
+  {
+    "id": "xp-tuzaklari",
+    "title": "Yeni Oyuncuların Düşeceği XP Tuzakları",
+    "content": "Ana görevleri atlamak, üretimden uzak durmak ve drone eğitimlerini ihmal etmek XP kazancını ciddi biçimde yavaşlatır."
+  },
+  {
+    "id": "silah-karsilastirma",
+    "title": "Silah Türlerinin Karşılaştırması",
+    "content": "Tüfekler uzun menzilde, shotgun'lar yakın çatışmada üstündür. PvP için hafif silahlar, PvE için yüksek hasarlı ağır silahlar önerilir."
+  },
+  {
+    "id": "zirh-katmani-farki",
+    "title": "Zırh Katmanları Arasındaki Farklar",
+    "content": "Hafif zırhlar hareket kabiliyeti sağlarken, ağır zırhlar yüksek savunma sunar. Orta zırh dengeli bir koruma sunar."
+  },
+  {
+    "id": "haftalik-etkinlikler",
+    "title": "Haftalık Etkinlik Takvimi",
+    "content": "Pazartesi Infection Clean-up, Salı Stronghold görevleri, Cuma PvP turnuvası gibi haftalık düzenli etkinlikler XP ve loot için çok önemlidir."
+  },
+  {
+    "id": "sezonluk-oduller",
+    "title": "Sezonluk Ödüller Nasıl Alınır?",
+    "content": "Sezon görevleri tamamlandıkça Battle Pass seviyesi artar ve özel eşyalar açılır. Bu ödüller sadece sezon süresince elde edilebilir."
+  },
+  {
+    "id": "battle-pass-sistemi",
+    "title": "Battle Pass Nedir?",
+    "content": "Battle Pass, oyunculara sezon boyunca görev tamamladıkça özel eşyalar kazandırır. Ücretsiz ve ücretli iki yolu bulunur."
+  },
+  {
+    "id": "premium-vs-f2p",
+    "title": "Premium Oyuncular ile F2P Kıyaslaması",
+    "content": "Ücretli oyuncular hızlı gelişirken, F2P oyuncular görev ve kamp sistemine odaklanarak dengeyi sağlayabilir. Doğru strateji ile F2P de başarılı olabilir."
+  },
+  {
+    "id": "terim-aciklamalari",
+    "title": "Sık Geçen Terimler ve Anlamları",
+    "content": "PvP: Oyuncuya karşı oyuncu | AoE: Alan etkili saldırı | CC: Kontrol etkisi | Buff: Güçlendirme etkisi | DPS: Saniyelik hasar oranı"
+  },
+  {
+    "id": "yeni-baslayan-terim-rehberi",
+    "title": "Yeni Oyuncular İçin Terim Rehberi",
+    "content": "Noob: Yeni başlayan oyuncu | Grind: Sürekli görev yapma | Loot: Düşen ganimet | Tank: Savunması yüksek karakter | Burst: Kısa sürede yüksek hasar"
+  },
+  {
+    "id": "Author",
+    "title": "Seni kim kodladi",
+    "content": "Ben, Decoder tarafından geliştirilmiş Life After oyunu için oyunculara etkin ve hızlı destek sağlamak amacıyla tasarlanmış bir yapay zeka modeliyim. Oyuncuların karşılaştıkları sorunları çözmek, oyun hakkında bilgi sağlamak ve kullanıcı deneyimini iyileştirmek için gelişmiş AI teknolojileriyle donatıldım. Oyun içi soruya yanıt verirken, çözüm odaklı ve kullanıcının ihtiyaçlarına en uygun cevapları sunarak destek veriyorum."
+  },
+  {
+    "id": "Decoder",
+    "title": "Seni kim yaptı?",
+    "content": "Decoder tarafından geliştirilen Life After oyununun destek hizmetleri için yapay zeka tabanlı bir asistanım. Amacım, oyuncuların karşılaştığı her türlü sorunu çözmek, bilgi sağlamak ve oyun deneyimini daha keyifli hale getirmektir. Yenilikçi algoritmalarım sayesinde, oyunculara etkili ve hızlı bir şekilde yardımcı olurum."
+  },
+  {
+    "id": "Karakter-Gelistirmeler",
+    "title": "Karakterimi nasıl geliştirebilirim?",
+    "content": "Karakterinizi geliştirmek için oyun içindeki 'Yetenek' ve 'Ekipman' sistemlerini kullanabilirsiniz. Yeteneklerinizi yükseltmek için görevleri tamamlayabilir ve kaynaklar toplayabilirsiniz. Ekipmanınızı geliştirmek için ise oyun içindeki malzemeleri kullanarak envanterinizi güçlendirebilirsiniz. Gelişmiş seviyelere ulaşmak için, ilerledikçe yeni yeteneklerin kilidini açabilirsiniz."
+  },
+  {
+    "id": "taktiksel-cipler-nedir",
+    "title": "Taktiksel Çipler Nedir?",
+    "content": "Taktiksel çipler, silah ve zırhlara özel pasif yetenekler ekleyen gelişmiş yükseltme parçalarıdır. Her çip farklı bir savaş avantajı sağlar."
+  },
+  {
+    "id": "yildiz-sistemi-gelistirme",
+    "title": "Yıldız Sistemi Nasıl Çalışır?",
+    "content": "Yıldız sistemi, ekipmanlara seviye bazlı performans artışı sağlar. Nano çipler ve özel malzemeler kullanılarak yıldız sayısı artırılabilir."
+  },
+  {
+    "id": "enerjileme-sistemi",
+    "title": "Ekipman Enerjileme Sistemi",
+    "content": "Enerjileme, ekipman dayanıklılığını artırmak ve yeni özellikler kazandırmak için kullanılır. Enerji seviyesi doldukça ekstra avantajlar açılır."
+  },
+  {
+    "id": "nano-plastik-kullanimi",
+    "title": "Nano Plastik Nerede Kullanılır?",
+    "content": "Nano plastik, ekipman enerjileme ve mod yükseltme işlemlerinde temel kaynaktır. Günlük görevler, etkinlikler ve kutulardan elde edilir."
+  },
+  {
+    "id": "yemek-tarifleri-buff",
+    "title": "Yemek Tarifleri ve Buff Kazanımı",
+    "content": "Her yemek, karaktere geçici olarak sağlık yenileme, hasar artışı, savunma bonusu veya dayanıklılık kazandırabilir. Malzemelerin uyumu buff'u belirler."
+  },
+  {
+    "id": "yemeklerle-stratejik-guc",
+    "title": "Yemeklerle Stratejik Güç Kazanmak",
+    "content": "Zombi istilası sırasında sağlık yenileyen yemekler; PvP öncesi saldırı gücü artırıcı tarifler kullanmak büyük avantaj sağlar."
+  },
+  {
+    "id": "harita-ozel-bolgeler",
+    "title": "Haritadaki Özel Bölgeler",
+    "content": "Snow Highlands, Mount Snow ve Nancy City gibi bölgeler, nadir kaynaklar ve güçlü düşmanlar içerir. Ekipman hazırlığı önemlidir."
+  },
+  {
+    "id": "bolgesel-stratejiler",
+    "title": "Bölgesel Strateji Geliştirme",
+    "content": "Her bölge için özel kıyafet ve ekipman kombinasyonları seçilmeli. Soğuk bölgelerde ısı yalıtımı, sıcak bölgelerde serinlik buff'u gerekir."
+  },
+  {
+    "id": "ileri-seviye-crafting",
+    "title": "İleri Seviye Crafting Teknikleri",
+    "content": "Formül seviyesini artırarak efsanevi ekipmanlar üretmek mümkündür. Ustalık seviyesi ne kadar yüksekse, başarım oranı da o kadar artar."
+  },
+  {
+    "id": "formul-parcasi-nereden",
+    "title": "Formül Parçaları Nasıl Toplanır?",
+    "content": "Etkinlikler, Death High görevleri, kamp bağışları ve piyasa satışıyla formül parçaları biriktirilebilir. Nadir tarifler için elzemdir."
+  },
+  {
+    "id": "npc-favor-sistemi",
+    "title": "NPC Favor Sistemi Nasıl İşler?",
+    "content": "Bazı NPC’lerle dostluk kurarak özel görevler, hediyeler ve favor puanları kazanabilirsiniz. Favor seviyesi arttıkça ödüller gelişir."
+  },
+  {
+    "id": "sosyal-etkilesim-kampi",
+    "title": "Sosyal Etkileşimler ve Kamp Yaşamı",
+    "content": "Kamp içi sohbet, eşya paylaşımı ve ortak görevler; oyuncular arasında iş birliğini güçlendirir. Bu bağlar PvP savaşlarında da önemlidir."
+  },
+  {
+    "id": "ustalik-nedir",
+    "title": "Ustalık Sistemi Nedir?",
+    "content": "Ustalık; savaş, toplama ve üretim olmak üzere üç ana kategoridedir. Her biri, karakter gelişimini doğrudan etkileyen bonuslar sunar."
+  },
+  {
+    "id": "ustalik-seviyesi-nasil-artar",
+    "title": "Ustalık Seviyesi Nasıl Yükseltilir?",
+    "content": "Görevleri tamamlamak, üretim yapmak veya düşman öldürmek ustalık puanı kazandırır. Belirli seviyelerde yeni yetenekler açılır."
+  },
+  {
+    "id": "mutasyon-cekirdekleri-detay",
+    "title": "Mutasyon Çekirdekleri Nasıl Çalışır?",
+    "content": "Mutasyon çekirdekleri, silah ve zırhlara özel etkiler ekleyen yükseltmelerdir. Bazıları ekstra hasar, bazıları zehirleme gibi statü efektleri sağlar."
+  },
+  {
+    "id": "taktiksel-cip-kombinasyonlari",
+    "title": "Taktiksel Çip Kombinasyonları",
+    "content": "Çip kombinasyonları, PvE ya da PvP senaryolarına göre seçilmelidir. Hızlı yeniden doldurma + hasar artırıcı + direnç sağlayan çipler yaygın kullanılır."
+  },
+  {
+    "id": "gizli-yemek-tarifleri",
+    "title": "Gizli Yemek Tarifleri",
+    "content": "Malzeme kombinasyonlarıyla açığa çıkan gizli yemekler, enerji yenileme, HP yenilenmesi ve geçici savunma artışı gibi özel buff’lar sağlar."
+  },
+  {
+    "id": "buff-sure-kalite-iliskisi",
+    "title": "Buff Süresi ve Malzeme Kalitesi İlişkisi",
+    "content": "Yemeklerde kullanılan malzeme kalitesi, buff süresini doğrudan etkiler. Nadir malzemelerle hazırlanan yemekler daha uzun ve güçlü etkiler sunar."
+  },
+  {
+    "id": "gelismis-us-tuzaklari",
+    "title": "Gelişmiş Üs Tuzakları",
+    "content": "Elektrikli çitler, ateş püskürtücüler ve otomatik makineli kuleler üs savunmasını güçlendirir. PvP modlarında bu tuzaklar hayati rol oynar."
+  },
+  {
+    "id": "us-duzenleme-katmanli-savunma",
+    "title": "Katmanlı Üs Savunması Nasıl Kurulur?",
+    "content": "Savunma hatlarını iç içe yerleştirmek, düşmanı yavaşlatır. Dış çemberde yavaşlatıcılar, iç çemberde hasar veren tuzaklar konumlandırılmalıdır."
+  },
+  {
+    "id": "bolge-stratejileri-kis",
+    "title": "Soğuk Bölgeler İçin Stratejiler",
+    "content": "Snow Highlands gibi bölgelerde soğuk havaya dayanıklı giysiler, sıcaklık buff'ları ve kamp ateşi taşımak zorunludur."
+  },
+  {
+    "id": "hava-kosullari-taktik",
+    "title": "Hava Koşullarına Karşı Taktikler",
+    "content": "Yağmur, sis, kar gibi hava koşulları görüşü ve HP’yi etkiler. Gece görevlerinde fener ve sağlık yenileme eşyaları taşınmalıdır."
+  },
+  {
+    "id": "pvp-ekipman-onerisi",
+    "title": "PvP İçin Önerilen Ekipmanlar",
+    "content": "PvP için hafif zırh, SMG tarzı silahlar ve ani saldırı gücü artıran modlar önerilir. Hızlı hareket kabiliyeti kritik önemdedir."
+  },
+  {
+    "id": "pve-ekipman-onerisi",
+    "title": "PvE İçin Önerilen Ekipmanlar",
+    "content": "PvE görevlerinde AoE hasar veren tüfekler, dayanıklı zırhlar ve otomatik drone desteği oyuncunun hayatta kalma oranını artırır."
+  },
+  {
+    "id": "ustalik-sistemleri-genel",
+    "title": "Ustalık Sistemleri Nedir?",
+    "content": "Savaş, üretim ve toplama olmak üzere üç ana ustalık seviyesi vardır. Her biri oyuncunun karakter gelişimini ve görev başarımını etkiler."
+  },
+  {
+    "id": "yetenek-agaci-acilimi",
+    "title": "Yetenek Ağacı Nasıl Açılır?",
+    "content": "Ustalık seviyeleri arttıkça yeni yetenekler açılır. Bu yetenekler bonus HP, crafting hızı, hasar artırımı gibi etkiler sağlar ve yetenek ağacından seçilir."
+  },
+  {
+    "id": "cekirdek-aurora-keskinligi",
+    "title": "Aurora Keskinliği Çekirdeği",
+    "content": "Bu çekirdek, kritik vuruş hasarını artırır ve düşmanları kısa süreliğine sersemletir. PvP senaryolarında sıkça kullanılır."
+  },
+  {
+    "id": "cekirdek-simsek-cift-kilici",
+    "title": "Şimşek Çift Kılıcı Çekirdeği",
+    "content": "Saldırılarınızın elektrik hasarı vermesini sağlar ve düşmanları yavaşlatır. PvE görevlerinde kalabalık düşman gruplarına karşı etkilidir."
+  },
+  {
+    "id": "cekirdek-buz-kalkani",
+    "title": "Buz Kalkanı Çekirdeği",
+    "content": "Savunmanızı artırır ve belirli miktarda hasarı absorbe eder. Özellikle Death High gibi zorlu görevlerde hayatta kalma süresini uzatır."
+  },
+  {
+    "id": "cekirdek-alev-patlamasi",
+    "title": "Alev Patlaması Çekirdeği",
+    "content": "Saldırılarınızın çevresel hasar vermesini sağlar. Patlama etkisiyle birden fazla düşmana zarar verebilir."
+  },
+  {
+    "id": "cip-hizli-yeniden-yukleme",
+    "title": "Hızlı Yeniden Yükleme Çipi",
+    "content": "Bu çip, silahınızın yeniden yükleme süresini önemli ölçüde azaltır. PvP savaşlarında avantaj sağlar."
+  },
+  {
+    "id": "cip-hasar-arttirici",
+    "title": "Hasar Artırıcı Çip",
+    "content": "Bu çip, saldırı gücünüzü belirli bir yüzde oranında artırır. Boss savaşları ve PvE görevlerinde kullanılır."
+  },
+  {
+    "id": "cip-direnc-saglayici",
+    "title": "Direnç Sağlayıcı Çip",
+    "content": "Belirli hasar türlerine karşı direnç kazandırır. Taktiksel ekipmanlarda savunma yeteneğini artırır."
+  },
+  {
+    "id": "cip-enerji-yenileyici",
+    "title": "Enerji Yenileyici Çip",
+    "content": "Zamanla enerji seviyenizi yeniler. Özel yeteneklerinizi daha sık kullanmanızı sağlar, PvE senaryolarında avantajlıdır."
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
